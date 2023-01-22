@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-sushi/static/css/main.eeb71e44.chunk.css",
+    "main.js": "/react-sushi/static/js/main.53f2bf93.chunk.js",
+    "main.js.map": "/react-sushi/static/js/main.53f2bf93.chunk.js.map",
+    "runtime-main.js": "/react-sushi/static/js/runtime-main.4eb6945f.js",
+    "runtime-main.js.map": "/react-sushi/static/js/runtime-main.4eb6945f.js.map",
+    "static/js/2.d119df62.chunk.js": "/react-sushi/static/js/2.d119df62.chunk.js",
+    "static/js/2.d119df62.chunk.js.map": "/react-sushi/static/js/2.d119df62.chunk.js.map",
+    "index.html": "/react-sushi/index.html",
+    "static/css/main.eeb71e44.chunk.css.map": "/react-sushi/static/css/main.eeb71e44.chunk.css.map",
+    "static/js/2.d119df62.chunk.js.LICENSE.txt": "/react-sushi/static/js/2.d119df62.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/react-sushi/static/media/sushi.a2b4b921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb6945f.js",
+    "static/js/2.d119df62.chunk.js",
+    "static/css/main.eeb71e44.chunk.css",
+    "static/js/main.53f2bf93.chunk.js"
+  ]
+}
